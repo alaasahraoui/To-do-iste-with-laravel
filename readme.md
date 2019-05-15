@@ -26,11 +26,11 @@ this is a todo app with laravel : please give a star if you like it
 
 4. make a the laravel key : 
 `php artisan key:generate`
-5. 
+5. start the server : 
+ `php artisan serve`
+ 
 
 
 
-```
-# code block
  <h1>enjoy your app and contact me in case of bug and problems </h1>
-```
+
